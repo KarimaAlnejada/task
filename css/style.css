@@ -1,0 +1,29 @@
+
+#div1,#div2{
+    width : 400px;
+    background-Color : rgb(117, 211, 240);
+   color: white;
+    font-size: 20px; 
+    border: 2px solid grey; 
+    display: none;
+}
+.img1{
+   
+    margin-right: 13px;
+}
+#btn1 {
+    width:  200px;
+    height : 45px;
+    background-Color : rgb(30, 153, 235);
+    color : white;
+    font-size : 23px;
+    margin : 10px;
+}
+.products{
+    display: flex;
+}
+
+.products li{
+    list-style: none;
+    margin-bottom: 20px;
+}
